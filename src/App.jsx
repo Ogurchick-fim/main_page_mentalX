@@ -1,0 +1,1 @@
+<command>rm src/App.jsx</command>
